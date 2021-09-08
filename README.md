@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Nikolaos or Nick, a Software Engineer currently working and living in Belgium.
+My name is Nikolaos || Nick, a Software Engineer currently working and living in Belgium.
 
 - 🔭 I’m currently working on eUI (a European Commission Project)
 - 🌱 I’m currently learning React, Kubernetes, Rancher and GraphQl
